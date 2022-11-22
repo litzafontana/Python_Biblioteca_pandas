@@ -25,3 +25,8 @@ df = pd.read_excel ('vendas_202005.xlsx', sheet_name = 'Jan')
 ```
 
 
+
+## Autores
+
+- [@medium](https://medium.com/tech-grupozap/introdu%C3%A7%C3%A3o-a-biblioteca-pandas-89fa8ed4fa38)
+
